@@ -1,2 +1,0 @@
-# myTemplate
-My Templates.
